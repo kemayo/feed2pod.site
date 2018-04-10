@@ -1,0 +1,3 @@
+[submodule "feed2pod"]
+	path = feed2pod
+	url = https://github.com/kemayo/feed2pod.git
